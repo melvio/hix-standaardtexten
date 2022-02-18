@@ -21,7 +21,7 @@ Resp:  dyspneu in rust:(*-/+), hoesten:(*-/+), sputum(*-/+), hemoptoë:(*-/+)
 Dig:   eetlust:(*gb/matig), misselijk:(*-/+), emesis:(*-/+), slikklachten:(*-/+), boeren:(*-/+), regurgitatie:(*-/+), pyrosis:(*-/+), buikpijn:(*-/lokaal), veranderingen in defecatie patroon:(*-/+), diarree:(*-/+), obstipatie:(*-/+), ontlasting:(*gb/breiig/waterig), bloed bij ontlasting:(*-/+)  
 Uro:   flankpijn:(*-/+), dysurie:(*-/+), incontinentie:(*-/+), urine:(*gb/troebel/cola/riekend), hematurie:(*-/+)   
 Locomotor: 
-COVID: infectie gehad:(*-/+) , gevaccineerd: (*nee/2x/2x+geboosterd)
+COVID: infectie gehad:(*-/+) , gevaccineerd:(*nee/2x/2x+geboosterd)
 overig: 
 
 
