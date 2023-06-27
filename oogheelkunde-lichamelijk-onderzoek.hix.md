@@ -1,11 +1,11 @@
-Visus ODS: 1.0, 1.0, onder stenopeische opening 1.0 1.0
-Gezichtsvelden ODS: alle kwadranten intact
-Oogvolgbewegingen: gladde oogvolgbewegingen, geen nystagmus of diplopie. 
-Uitwendige inspectie: geen exoftalmie of ptosis. Gave conjunctiva, slera en cornea.
-Pupillen: PEARL, indirect +/+
+Visus ODS: 1.0, 1.0, onder stenopeische opening 1.0 1.0                  
+Gezichtsvelden ODS: alle kwadranten intact                
+Oogvolgbewegingen: gladde oogvolgbewegingen, geen nystagmus of diplopie               
+Uitwendige inspectie: geen exoftalmie of ptosis. Gave conjunctiva, slera en cornea                
+Pupillen: PEARL, indirect +/+                   
 
 
-Spleetlamp ODS: 
+Spleetlamp ODS:  
 - cornea: helder, guttata-
 - iris: g.b.
 - lens: helder, PEX-
